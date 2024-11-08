@@ -1,0 +1,11 @@
+﻿  circle_textfield.cpp
+C:\Users\user\Desktop\SP\lab2\circle_textfield\circle_textfield.cpp(21,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\SP\lab2\circle_textfield\circle_textfield.cpp(22,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  utils.cpp
+  utils.h
+  window.cpp
+C:\Users\user\Desktop\SP\lab2\circle_textfield\window.cpp(83,40): warning C4244: 'argument': conversion from 'WPARAM' to 'wchar_t', possible loss of data
+  Generating Code...
+circle_textfield\ARM64\Debug\utils.obj : warning LNK4042: object specified more than once; extras ignored
+  circle_textfield.vcxproj -> C:\Users\user\Desktop\SP\lab2\circle_textfield\ARM64\Debug\circle_textfield.exe
